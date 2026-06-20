@@ -12,7 +12,8 @@
             "driver": "MySQL",
             "name": "mysql",
             "database": "lms_platform",
-            "username": "root"
+            "username": "root",
+            "password": "1234"
         }
     ]
 }
